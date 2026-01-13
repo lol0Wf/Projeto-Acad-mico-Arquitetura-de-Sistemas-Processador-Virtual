@@ -1,15 +1,15 @@
 # Mico: Processador de Ciclo Único
 
-[cite_start]Este projeto consiste na implementação do **Mico**, um processador de ciclo único desenvolvido para a disciplina de Arquitetura e Sistemas Operacionais do Bacharelado em Ciência da Computação[cite: 4, 5, 6]. [cite_start]O objetivo é demonstrar o funcionamento de uma via de dados e unidade de controle integrada[cite: 15, 38].
+Este projeto consiste na implementação do **Mico**, um processador de ciclo único desenvolvido para a disciplina de Arquitetura e Sistemas Operacionais do Bacharelado em Ciência da Computação[cite: 4, 5, 6]. [cite_start]O objetivo é demonstrar o funcionamento de uma via de dados e unidade de controle integrada.
 
 ## Conceito do Projeto
-[cite_start]O Mico é um processador de **32 bits** com arquitetura baseada em um conjunto reduzido de 16 instruções[cite: 17, 23]. [cite_start]Ele foi projetado no simulador **Digital** para executar operações fundamentais de hardware[cite: 11, 15].
+O Mico é um processador de **32 bits** com arquitetura baseada em um conjunto reduzido de 16 instruções. Ele foi projetado no simulador **Digital** para executar operações fundamentais de hardware.
 
 ### Componentes Principais:
-* [cite_start]**Unidade Lógica e Aritmética (ULA):** Processa operações de 32 bits como soma, multiplicação e lógica[cite: 43, 58].
-* [cite_start]**Banco de Registradores:** Bloco com 16 registradores de 32 bits, onde o $R0$ é fixo em zero[cite: 45, 46].
-* [cite_start]**Unidade de Controle:** ROM que gera sinais para coordenar o fluxo de dados do processador[cite: 38, 39, 40].
-* [cite_start]**Memórias:** Possui memória de instruções (ROM) e de dados (RAM), ambas com 64K palavras[cite: 36, 47].
+* **Unidade Lógica e Aritmética (ULA):** Processa operações de 32 bits como soma, multiplicação e lógica.
+* **Banco de Registradores:** Bloco com 16 registradores de 32 bits, onde o $R0$ é fixo em zero.
+* **Unidade de Controle:** ROM que gera sinais para coordenar o fluxo de dados do processador.
+* **Memórias:** Possui memória de instruções (ROM) e de dados (RAM), ambas com 64K palavras.
 
 ## Referências Utilizadas
 O desenvolvimento foi fundamentado nos seguintes materiais técnicos:
@@ -22,4 +22,4 @@ O desenvolvimento foi fundamentado nos seguintes materiais técnicos:
 * **Organização de Computadores (IFRN):** [Acessar Aula](https://docentes.ifrn.edu.br/jeangaldino/disciplinas/2016.1/organizacao-de-computadores/aula-14-logisim-interligando-as-partes/view)
 
 ---
-[cite_start]*Projeto desenvolvido para o Instituto Federal do Paraná (IFPR) - Campus Pinhais.* [cite: 1, 3]
+*Projeto desenvolvido para o Instituto Federal do Paraná (IFPR) - Campus Pinhais.* 
