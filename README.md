@@ -1,6 +1,6 @@
 # Mico: Processador de Ciclo Único
 
-Este projeto consiste na implementação do **Mico**, um processador de ciclo único desenvolvido para a disciplina de Arquitetura e Sistemas Operacionais do Bacharelado em Ciência da Computação[cite: 4, 5, 6]. [cite_start]O objetivo é demonstrar o funcionamento de uma via de dados e unidade de controle integrada.
+Este projeto consiste na implementação do **Mico**, um processador de ciclo único desenvolvido para a disciplina de Arquitetura e Sistemas Operacionais do Bacharelado em Ciência da Computação. O objetivo é demonstrar o funcionamento de uma via de dados e unidade de controle integrada.
 
 ## Conceito do Projeto
 O Mico é um processador de **32 bits** com arquitetura baseada em um conjunto reduzido de 16 instruções. Ele foi projetado no simulador **Digital** para executar operações fundamentais de hardware.
