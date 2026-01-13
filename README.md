@@ -21,5 +21,7 @@ O desenvolvimento foi fundamentado nos seguintes materiais técnicos:
 * **Aritmética Digital (UFF):** [Acessar Capítulo](https://www.professores.uff.br/lbertini/wp-content/uploads/sites/108/2017/08/Capitulo-5-Aritmetica-Digital.pdf)
 * **Organização de Computadores (IFRN):** [Acessar Aula](https://docentes.ifrn.edu.br/jeangaldino/disciplinas/2016.1/organizacao-de-computadores/aula-14-logisim-interligando-as-partes/view)
 
+## Simulador utilizado
+* **Digital:**[Download](https://github.com/hneemann/Digital/releases/latest/download/Digital.zip)
 ---
 *Projeto desenvolvido para o Instituto Federal do Paraná (IFPR) - Campus Pinhais.* 
